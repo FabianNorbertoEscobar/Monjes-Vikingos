@@ -8,7 +8,6 @@ import monjes.*;
 @SuppressWarnings("deprecation")
 public class TestVikingo {
 
-	@SuppressWarnings("deprecation")
 	@Test
 	public void testSeCreaVikingo() {
 		Vikingo v = new Vikingo(10, 10, 100);
